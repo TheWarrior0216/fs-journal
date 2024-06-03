@@ -1,6 +1,6 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | ANSWER HERE |
+    > | We use Git to communicate to others and ourselves of what changes have been mad |
 
 02. In the terminal, what is the command `mkdir` used for?
     > | ANSWER HERE |
