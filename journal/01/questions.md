@@ -3,16 +3,16 @@
     > | We use Git to communicate to others and ourselves of what changes have been mad |
 
 02. In the terminal, what is the command `mkdir` used for?
-    > | ANSWER HERE |
+    > | The command is used to make a folder also known as a directory |
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > | A pseudo-class is something more specific than a class it can be an ID, or just something specific within each class, the most common would be Id's|
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > | A numbered value given to separate entities in order to test what order they should be enacted/ which one takes precedents |
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > | There would arise a couple of problems, one of these problems would be that the main function of !important would be wiped out, you are now going to have to do other things in order for it to work properly. |
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
@@ -22,19 +22,19 @@
         }
     ```
 
-    > | ANSWER HERE |
+    > | Selector, property, value  |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > |  I think good design will influence people to share about the website, it appears to be professional and people prefer profession, through design you can convey where you want peoples gaze to be and can convey emotions as well. |
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > | Wireframes provide a clear overview of the page structure, layout, information architecture, user flow, functionality, and intended behaviors |
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > | I think depending on the scenario where they will be used they definitely can be useful, however most of the time I think you are spending to much time and it just is not worth it. |
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > | Flex moves everything so that it is not stuck, it makes it well flexible |
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > | Padding, Border, and Margin |
